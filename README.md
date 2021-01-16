@@ -1,5 +1,6 @@
 ### Hi there, I am Diksha Adhikari. 👋
 
+Hardworking fresher seeking an opportunity in an organization of immense repute to get an exposure in the field of computer science and also to prove my skills and utilize my knowledge.
 
 - 🔭 I’m currently working on Frontend development
 - 🌱 I’m currently learning react.js
