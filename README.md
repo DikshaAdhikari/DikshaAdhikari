@@ -5,6 +5,7 @@ Hardworking fresher seeking an opportunity in an organization of immense repute 
 - 🔭 I’m currently working on Frontend development
 - 🌱 I’m currently learning react.js
 - 🥂 Fun fact: Declare variables, not war.
+- 📫 Reach me at diksha.adhikari.55@gmail.com
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
